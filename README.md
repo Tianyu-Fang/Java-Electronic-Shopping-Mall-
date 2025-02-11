@@ -58,7 +58,7 @@ E-Shop is an online shopping platform for purchasing programming-related books. 
 
 ### MVC Pattern
 ![MVCPattern1](images/MVCPattern1.png)
-![MVCPattern2](images/MVVPattern2.png)
+![MVCPattern2](images/MVCPattern2.png)
 
 ### MVC Package Structure
 ![MVC Package Diagram](images/PackageDiagramMVC.png)
